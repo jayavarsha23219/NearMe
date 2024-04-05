@@ -26,7 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 ```
-chris.html
+map.html
 
 <html>
   <head>
@@ -178,7 +178,7 @@ snaps are unbeleivable and its showing their excellence of art in this stage of 
 ```
 
 ## OUTPUT
-
+![alt text](<Screenshot 2024-04-04 184844.png>)
 ![alt text](<kkdi img1.png>)
 ![alt text](<kkdi img2.png>)
 ![alt text](<kkdi img3.png>)
